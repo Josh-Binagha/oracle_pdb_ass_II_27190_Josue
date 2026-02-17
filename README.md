@@ -101,7 +101,7 @@ This repository contains:
 
 ## Required Submission Information
 
-**Repository Link:** [PASTE YOUR GITHUB REPOSITORY LINK HERE]
+**Repository Link:** https://github.com/Josh-Binagha/oracle_pdb_ass_II_27190_Josue.git
 **PDB Name Created:** JO_PDB_27190
 **Issues Encountered:** Yes
 
