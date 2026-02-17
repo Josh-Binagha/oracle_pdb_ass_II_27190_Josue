@@ -6,10 +6,10 @@
 
 ## Student Information
 
-**Name:** El Ushindi Binagha Josue
-**Student ID:** 27190
-**Course:** Database Development with PL/SQL
-**Instructor:** Eric Maniraguha
+**Name:** El Ushindi Binagha Josue 
+**Student ID:** 27190 
+**Course:** Database Development with PL/SQL 
+**Instructor:** Eric Maniraguha 
 
 ---
 
