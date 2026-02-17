@@ -1,7 +1,5 @@
 -- ============================================
 -- Question 2: Create and Delete a PDB
--- Student: El Ushindi Binagha Josue
--- Student ID: 27190
 -- ============================================
 
 -- Connect as SYSDBA
@@ -31,5 +29,5 @@ DROP PLUGGABLE DATABASE JO_TO_DELETE_PDB_27190 INCLUDING DATAFILES;
 -- Verify PDB was deleted
 SHOW PDBS;
 
--- Switch to the main PDB (jo_pdb_27190)
+-- Switch back to your working PDB (jo_pdb_27190)
 ALTER SESSION SET CONTAINER = jo_pdb_27190;
