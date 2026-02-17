@@ -1,7 +1,5 @@
 -- ============================================
 -- Question 1: Create a New Pluggable Database
--- Student: El Ushindi Binagha Josue
--- Student ID: 27190
 -- ============================================
 
 -- Connect as SYSDBA
